@@ -6,7 +6,7 @@
 
 I built my first messy but functional Python script that converts a Spotify playlist to a YouTube playlist, while storing the song IDs locally to avoid adding the same songs twice. The default is that every time the program is run, the YouTube playlist is cleared and only the new songs are added, but this can be controlled by calling a function called refresh. You can imagine the uses, and any advice would be greatly appreciated!
 
-###### As for the workings, here's the breakdown in steps:
+**As for the workings, here's the breakdown in steps:**
 1. It asks the user for a Spotify playlist
 2. The user inputs the "share this playlist" link
 3. The program will fetch all the songs in the playlist and simplify the info to their unique ID, artist names and song name. (The Spotify song object is LOADED with useless info for this application)
