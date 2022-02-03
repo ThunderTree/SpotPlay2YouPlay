@@ -1,6 +1,6 @@
 # **SpotPlay2YouPlay**
-
-*Converts new additions to a Spotify playlist to a matching Youtube playlist, can also be configured to converting whole playlists with the refresh function. Requires 3 youtube/google credentials to operate at full capacity, and needs 1 spotify api *
+_
+Converts new additions to a Spotify playlist to a matching Youtube playlist, can also be configured to converting whole playlists with the refresh function. Requires 3 youtube/google credentials to operate at full capacity, and needs 1 spotify api_ 
 
 ## **HOW TO USE DETAILED IN STEPS IN THE DIRECTIONS.TXT FILE**
 
